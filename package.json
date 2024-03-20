@@ -32,7 +32,7 @@
   "homepage": "https://github.com/GoPlan-Finance/financialmodelingprep-openapi#readme",
   "devDependencies": {
     "openapi-typescript-codegen": "0.22.0",
-    "typescript": "4.6.3",
+    "typescript": "5.4.3",
     "webpack": "5.72.0"
   },
   "dependencies": {
